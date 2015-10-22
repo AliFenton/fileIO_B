@@ -56,7 +56,7 @@ int main(){
        }
     }
     
-    fout << "Highest score: " << maxStudent << endl;
+    fout << "\nHighest score: " << maxStudent << endl;
     
     fin.close();
     fout.close();
